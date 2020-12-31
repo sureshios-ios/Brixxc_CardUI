@@ -47,7 +47,7 @@ class _DataState extends State<Data> {
                  Container(
                    margin: EdgeInsets.symmetric(horizontal: 20),
                     width: 150,
-                    height:180,
+                    height:150,
                    child: Image.network("https://fileinfo.com/img/ss/lg/jpg_44.jpg"),
                  ),
           ],
